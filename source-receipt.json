@@ -2,26 +2,52 @@
   "repo": "tangyixiao/Shaoxingyizhong-img-xwzx-2026-h1",
   "sourceBranch": "main",
   "sourceCommit": null,
+  "designVersion": 3,
+  "direction": {
+    "visualConcept": "柠檬绿、实验台灰与纸白的上半年观察册：把已核对的学生动手场景横片做跨页主图，展架竖片置于窄页，椅排组合图以小比例保留原貌。构图像实验课记录册，年份沿页脊竖排。事实边界：2026 上半年图片资源分片，照片只做样本，不把具体课程或活动名猜成事实。",
+    "layout": "editorial",
+    "palette": {
+      "light": {
+        "bg": "#E5E8C9",
+        "surface": "#F5F4DE",
+        "ink": "#333B20",
+        "muted": "#62694a",
+        "accent": "#606d21"
+      },
+      "dark": {
+        "bg": "#202716",
+        "surface": "#303C20",
+        "ink": "#EFF0D4",
+        "muted": "#b1bc8b",
+        "accent": "#c6d77b"
+      }
+    },
+    "threeConcept": "Three.js 建立一册可开启的绿色布脊观察册，两面独立页面贴真实照片，薄纸厚度和中央页脊提供体积；照片纹理保持平面，不剪出学生。",
+    "distinctiveInteraction": "左右翻页只在三张已选样本间切换，展开的侧注列出真实路径和分片范围；提供静态缩略索引、键盘翻页和直接看原图。"
+  },
   "media": [
     {
       "src": "assets/media/photo-1.webp",
       "alt": "校内展陈，来自绍兴一中公开图片归档",
-      "url": "https://github.com/tangyixiao/Shaoxingyizhong-img-xwzx-2026-h1/blob/main/UploadFiles/xwzx/2026/1/202601290924098482.jpg"
+      "url": "https://github.com/tangyixiao/Shaoxingyizhong-img-xwzx-2026-h1/blob/main/UploadFiles/xwzx/2026/1/202601290924098482.jpg",
+      "path": "UploadFiles/xwzx/2026/1/202601290924098482.jpg"
     },
     {
       "src": "assets/media/photo-2.webp",
       "alt": "课堂实践，来自绍兴一中公开图片归档",
-      "url": "https://github.com/tangyixiao/Shaoxingyizhong-img-xwzx-2026-h1/blob/main/UploadFiles/xwzx/2026/6/202606151608279000.png"
+      "url": "https://github.com/tangyixiao/Shaoxingyizhong-img-xwzx-2026-h1/blob/main/UploadFiles/xwzx/2026/6/202606151608279000.png",
+      "path": "UploadFiles/xwzx/2026/6/202606151608279000.png"
     },
     {
       "src": "assets/media/photo-3.webp",
       "alt": "教室空间，来自绍兴一中公开图片归档",
-      "url": "https://github.com/tangyixiao/Shaoxingyizhong-img-xwzx-2026-h1/blob/main/UploadFiles/xwzx/2026/5/202605151639183662.png"
+      "url": "https://github.com/tangyixiao/Shaoxingyizhong-img-xwzx-2026-h1/blob/main/UploadFiles/xwzx/2026/5/202605151639183662.png",
+      "path": "UploadFiles/xwzx/2026/5/202605151639183662.png"
     }
   ],
   "skills": [
     "baoyu-design",
     "design-taste-frontend"
   ],
-  "design": "content-first source/product/photography; no rejected template or faux 3D"
+  "flagshipModel": null
 }
