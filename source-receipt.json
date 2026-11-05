@@ -1,0 +1,27 @@
+{
+  "repo": "tangyixiao/Shaoxingyizhong-img-xwzx-2026-h1",
+  "sourceBranch": "main",
+  "sourceCommit": null,
+  "media": [
+    {
+      "src": "assets/media/photo-1.webp",
+      "alt": "校内展陈，来自绍兴一中公开图片归档",
+      "url": "https://github.com/tangyixiao/Shaoxingyizhong-img-xwzx-2026-h1/blob/main/UploadFiles/xwzx/2026/1/202601290924098482.jpg"
+    },
+    {
+      "src": "assets/media/photo-2.webp",
+      "alt": "课堂实践，来自绍兴一中公开图片归档",
+      "url": "https://github.com/tangyixiao/Shaoxingyizhong-img-xwzx-2026-h1/blob/main/UploadFiles/xwzx/2026/6/202606151608279000.png"
+    },
+    {
+      "src": "assets/media/photo-3.webp",
+      "alt": "教室空间，来自绍兴一中公开图片归档",
+      "url": "https://github.com/tangyixiao/Shaoxingyizhong-img-xwzx-2026-h1/blob/main/UploadFiles/xwzx/2026/5/202605151639183662.png"
+    }
+  ],
+  "skills": [
+    "baoyu-design",
+    "design-taste-frontend"
+  ],
+  "design": "content-first source/product/photography; no rejected template or faux 3D"
+}
